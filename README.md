@@ -2,7 +2,7 @@
 
 为分支对话记录文件用途、生命周期和可核对的变化，让下一次任务知道哪些上下文仍然有效。
 
-**v0.2 本地原型：Skill + Python 辅助脚本。
+**v0.2 本地原型：Skill + Python 辅助脚本。**
 
 参考上游：[liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)。本项目独立维护，未获上游背书；本项目非 DSH 运行时插件或 Synapse 的 fork。
 
