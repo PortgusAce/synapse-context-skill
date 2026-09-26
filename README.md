@@ -2,11 +2,11 @@
 
 为分支对话记录文件用途、生命周期和可核对的变化，让下一次任务知道哪些上下文仍然有效。
 
-**v0.2 本地原型：Skill + Python 辅助脚本。无需安装 Harness、Synapse、Git 或第三方 Python 包，也不需要 API Key。** 真实 DSH/Synapse 会话集成与画布展示尚未完成兼容性验证。
+**v0.2 本地原型：Skill + Python 辅助脚本。
 
-参考上游：[liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)。本项目独立维护，未获上游背书；它不是 DSH 运行时插件或 Synapse 的 fork。
+参考上游：[liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)。本项目独立维护，未获上游背书；本项目非 DSH 运行时插件或 Synapse 的 fork。
 
-## 给 Agent 使用
+## Agent 使用
 
 将整个 [skills/synapse-context](skills/synapse-context/SKILL.md) 目录按宿主支持的方式加载，或者直接请求：
 
